@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dizeat-87b01": {
+      "hosting": {
+        "cookfu-web": [
+          "dizeat-87b01"
+        ]
+      }
+    }
+  }
+}
